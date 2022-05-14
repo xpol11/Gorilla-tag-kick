@@ -1,3 +1,8 @@
+PATCHED FINDING NEW WAY TO DO IT
+
+
+
+
 I found out a new and better way to kick and crash people in gorilla tag. the kick should work all the time but the crasher has like 50% chance of working. 
 I didnt use plugins/mods to bypass the anticheat. Iv tried multible time to make one with a DLL But it never worked or it just got you banned. 
 This new way is a lot more faster.
